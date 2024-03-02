@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+#body{
+    margin: 0;
+    background: #1e1e1e;
+
+}
+
+#btn1{
+    z-index: 1;
+    margin-top: 10rem;
+    border-radius: 40px;
+    padding: 20px 30px;
+    background-color: white;
+    color: black;
+    font-size: 1,5em;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    text-decoration: none;
+    position: fixed;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    font-weight: bold;
+    border-color: black;
+    border-style: solid;
+    
+
+}
+
+#btn2{
+    z-index: 1;
+    margin-top: 20rem;
+    border-radius: 40px;
+    padding: 8px 30px;
+    background: white;
+    color: black;
+    font-size: 1,5em;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    text-decoration: none;
+    position: fixed;
+    margin-top: 2rem;
+    margin-left: 12rem;
+    border-color: black;
+    border-style: solid;
+
+}
+#btn3{
+    z-index: 1;
+    margin-top: 20rem;
+    border-radius: 40px;
+    padding: 8px 30px;
+    background: white;
+    color: black;
+    font-size: 1,5em;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    text-decoration: none;
+    position: fixed;
+    margin-top: 2rem;
+    margin-left: 22rem;
+    border-color: black;
+    border-style: solid;
+
+}
+#btn4{
+    z-index: 1;
+    margin-top: 20rem;
+    border-radius: 40px;
+    padding: 8px 30px;
+    background: white;
+    color: black;
+    font-size: 1,5em;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    text-decoration: none;
+    position: fixed;
+    margin-top: 2rem;
+    margin-left: 30rem;
+    border-color: black;
+    border-style: solid;
+
+}
+#btn5{
+    z-index: 1;
+    margin-top: 20rem;
+    border-radius: 40px;
+    padding: 8px 30px;
+    background: white;
+    color: black;
+    font-size: 1,5em;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    text-decoration: none;
+    position: fixed;
+    margin-top: 2rem;
+    margin-left: 38rem;
+    border-color: black;
+    border-style: solid;
+
+}
+#btn6{
+    z-index: 1;
+    margin-top: 20rem;
+    border-radius: 40px;
+    padding: 8px 30px;
+    background: white;
+    color: black;
+    font-size: 1,5em;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    text-decoration: none;
+    position: fixed;
+    margin-top: 2rem;
+    margin-left: 105rem;
+    border-color: black;
+    border-style: solid;
+
+}
+#btn1:hover{
+    background: transparent;
+    color: white;
+}
+#btn2:hover{
+    background: transparent;
+    color: white;
+}
+#btn3:hover{
+    background: #660A9E;
+}
+#btn4:hover{
+    background: #F4FF83;
+}
+#btn5:hover{
+    background: transparent;
+    color: white;
+}
+#btn5:hover{
+    background: transparent;
+    color: white;
+}
+#btn6:hover{
+    background: transparent;
+    color: white;
+}
